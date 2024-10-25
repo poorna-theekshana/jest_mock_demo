@@ -1,0 +1,11 @@
+{
+  "name": "jest-advanced-demo",
+  "version": "1.0.0",
+  "description": "Jest demo showcasing async tests, mocks, and parameterized tests",
+  "scripts": {
+    "start": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
